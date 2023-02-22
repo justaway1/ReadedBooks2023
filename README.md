@@ -27,3 +27,13 @@
 </p>
 
 <img src='./img/SyzdadenaDaYbivaFront.jpg' width='300px' height='300px'> <img src='./img/SyzdadenaDaYbivaBack.jpg' width='300px' height='300px'>
+
+---
+
+## $${\color{red}3. \space С. \space Дж. \space Кинкейд - Императрица} - \space 445 \space  стр. -/- \space Хубава \space е.$$
+
+<p align="left">
+<a href="https://www.ozone.bg/product/imperatritsata-vrag-na-imperiyata-2/" target="_blank"><img align="center" src="./img/BUY-BOOK-red.svg" alt="bookTitle" /></a>
+</p>
+
+<img src='./img/ImperatricaFront.jpg' width='300px' height='300px'> <img src='./img/ImperatricaBack.jpg' width='300px' height='300px'>

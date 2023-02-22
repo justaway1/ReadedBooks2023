@@ -23,7 +23,7 @@
 ## $${\color{grey}3. \space С. \space Дж. \space Кинкейд - Създадена \space да \space Убива} - \space 447 \space  стр. -/- \space Страхотна \space е.$$
 
 <p align="left">
-<a href="https://www.ozone.bg/product/s-zdadena-da-ubiva/" target="_blank"><img align="center" src="./img/BUY-BOOK-lightgrey.svg" alt="bookTitle" /></a>
+<a href="https://www.ozone.bg/product/s-zdadena-da-ubiva/" target="_blank"> <img align="center" src="./img/BUY-BOOK-lightgrey.svg" alt="bookTitle" /></a>
 </p>
 
 <img src='./img/SyzdadenaDaYbivaFront.jpg' width='300px' height='300px'> <img src='./img/SyzdadenaDaYbivaBack.jpg' width='300px' height='300px'>
@@ -40,10 +40,22 @@
 
 ---
 
-## $${\color{red}4. \space Харлан \space Коубън - Не \space се \space отказвай} - \space 316 \space  стр. -/- \space Страхотна \space е.$$
+## $${\color{red}5. \space Харлан \space Коубън - Не \space се \space отказвай} - \space 316 \space  стр. -/- \space Страхотна \space е.$$
 
 <p align="left">
-<a href="https://www.ozone.bg/product/ne-se-otkazvaj/" target="_blank"><img align="center" src="./img/BUY-BOOK-red.svg" alt="bookTitle" /></a>
+<a href="https://www.ozone.bg/product/ne-se-otkazvaj/" target="_blank"> <img align="center" src="./img/BUY-BOOK-red.svg" alt="bookTitle" /></a>
 </p>
 
 <img src='./img/NeseotkazvaiFront.jpg' width='300px' height='300px'>
+
+---
+
+## $${\color{lightblue}5. \space Карън \space Роуз - Не \space Говори} - \space 421 \space  стр. -/- \space Страхотна \space е.$$
+
+<p align="left">
+<a href="https://www.ozone.bg/product/ne-govori/" target="_blank"> <img align="center" src="./img/BUY-BOOK-lightblue.svg" alt="bookTitle" /></a>
+</p>
+
+<img src='./img/negovoriFront.jpg' width='300px' height='300px'> <img src='./img/negovoriBack.jpg' width='300px' height='300px'>
+
+---

@@ -50,12 +50,12 @@
 
 ---
 
-## $${\color{lightblue}5. \space Карън \space Роуз - Не \space Говори} - \space 421 \space  стр. -/- \space Страхотна \space е.$$
+## $${\color{mediumblue}5. \space Карън \space Роуз - Не \space Говори} - \space 421 \space  стр. -/- \space Страхотна \space е.$$
 
 <p align="left">
 <a href="https://www.ozone.bg/product/ne-govori/" target="_blank"> <img align="center" src="./img/BUY-BOOK-lightblue.svg" alt="bookTitle" /></a>
 </p>
 
-<img src='./img/negovoriFront.jpg' width='300px' height='300px'> <img src='./img/negovoriBack.jpg' width='300px' height='300px'>
+<img src='./img/negovoriFront.jpg' width='300px' height='300px'> <img src='./img/negovoriback.jpg' width='300px' height='300px'>
 
 ---

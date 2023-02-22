@@ -16,4 +16,4 @@
 <a href="https://www.book.store.bg/p307061/mrezhata-na-charli-dzhoj-filding.html" target="_blank"><img align="center" src="./img/BUY-BOOK-blue.svg" alt="bookTitle" /></a>
 </p>
 
-<img src='./img/FildingFront.jpg' width='300px' height='300px'> <img src='./img/FildingBack.jpg' align="right" width='300px' height='300px'>
+<img src='./img/FildingFront.jpg' width='300px' height='300px'> <img src='./img/FildingBack.jpg' width='300px' height='300px'>

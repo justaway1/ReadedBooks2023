@@ -17,3 +17,13 @@
 </p>
 
 <img src='./img/FildingFront.jpg' width='300px' height='300px'> <img src='./img/FildingBack.jpg' width='300px' height='300px'>
+
+---
+
+## $${\color{mediumred}3. \space С. \space Дж. \space Кинкейд - Създадена \space да \space Убива \space (част \space 1)} - \space 447 \space стр. -/- \space Страхотна \space е \space е.$$
+
+<p align="left">
+<a href="https://www.ozone.bg/product/s-zdadena-da-ubiva/" target="_blank"><img align="center" src="./img/BUY-BOOK-red.svg" alt="bookTitle" /></a>
+</p>
+
+<img src='./img/SyzdadenaDaYbivaFront.jpg' width='300px' height='300px'> <img src='./img/SyzdadenaDaYbivaBack.jpg' width='300px' height='300px'>

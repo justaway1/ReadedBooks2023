@@ -50,7 +50,7 @@
 
 ---
 
-## $${\color{mediumblue}5. \space Карън \space Роуз - Не \space Говори} - \space 421 \space  стр. -/- \space Страхотна \space е.$$
+## $${\color{mediumblue}6. \space Карън \space Роуз - Не \space говори} - \space 421 \space  стр. -/- \space Страхотна \space е.$$
 
 <p align="left">
 <a href="https://www.ozone.bg/product/ne-govori/" target="_blank"> <img align="center" src="./img/BUY-BOOK-lightblue.svg" alt="bookTitle" /></a>
@@ -59,3 +59,11 @@
 <img src='./img/negovoriFront.jpg' width='300px' height='300px'> <img src='./img/negovoriback.jpg' width='300px' height='300px'>
 
 ---
+
+## $${\color{dark}7. \space Дейвид \space Балдачи - Част \space от \space секундата} - \space 339 \space  стр. -/- \space Хубава \space е.$$
+
+<p align="left">
+<a href="https://www.ozone.bg/product/chast-ot-sekundata-sbb-media/" target="_blank"> <img align="center" src="./img/BUY-BOOK-black.svg" alt="bookTitle" /></a>
+</p>
+
+<img src='./img/sekyndataFront.jpg' width='300px' height='300px'> <img src='./img/sekyndataBack.jpg' width='300px' height='300px'>

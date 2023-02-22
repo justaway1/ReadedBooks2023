@@ -1,6 +1,6 @@
 <h1>Finished books of 2023</h1>
 
-<span>Titles<span> <span>Pages</span> <span>Review</span>
+<span>Titles<span>                                 <span>Pages</span>                                  <span>Review</span>
 
 <h3>1 - Лиса Гарднър - Хвани ме</h3>           <strong>373 стр.</strong>                            <em>Много е хубава.</em>
 

@@ -13,7 +13,7 @@
 ## $${\color{blue}1. \space Джой \space Филдинг - Мрежата \space на \space Чарли} - \space 318 \space стр. -/- \space Много \space е \space хубава.$$
 
 <p align="left">
-<a href="https://www.book.store.bg/p314366/hvani-me-lisa-gardnyr.html" target="_blank"><img align="center" src="./img/BUY-BOOK-blue.svg" alt="bookTitle" /></a>
+<a href="https://www.book.store.bg/p307061/mrezhata-na-charli-dzhoj-filding.html" target="_blank"><img align="center" src="./img/BUY-BOOK-blue.svg" alt="bookTitle" /></a>
 </p>
 
 <img src='./img/FildingFront.jpg' width='300px' height='300px'> <img src='./img/FildingBack.jpg' width='300px' height='300px'>

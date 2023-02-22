@@ -67,3 +67,5 @@
 </p>
 
 <img src='./img/sekyndataFront.jpg' width='300px' height='300px'> <img src='./img/sekyndataBack.jpg' width='300px' height='300px'>
+
+---

@@ -10,7 +10,7 @@
 
 ---
 
-## $${\color{blue}1. \space Джой \space Филдинг - Мрежата \space на \space Чарли} - \space 318 \space стр. -/- \space Много \space е \space хубава.$$
+## $${\color{blue}2. \space Джой \space Филдинг - Мрежата \space на \space Чарли} - \space 318 \space стр. -/- \space Много \space е \space хубава.$$
 
 <p align="left">
 <a href="https://www.book.store.bg/p307061/mrezhata-na-charli-dzhoj-filding.html" target="_blank"><img align="center" src="./img/BUY-BOOK-blue.svg" alt="bookTitle" /></a>

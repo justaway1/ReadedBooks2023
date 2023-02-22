@@ -1,4 +1,5 @@
-# Finished books of 2023
+<h1 align="center">Readed books of 2023
+</h1>
 
 | Total Books | Total Pages | Average pages per book |
 | ----------- | ----------- | ---------------------- |

@@ -1,4 +1,4 @@
-|FINISHED BOOKS OF 2023 |
+# Finished books of 2023
 
 ## $${\color{purple}1. \space Лиса \space Гарднър - Хвани \space ме} - \space 373 \space стр. \space Много \space е \space хубава.$$
 

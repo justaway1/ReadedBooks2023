@@ -20,7 +20,7 @@
 
 ---
 
-## $${\color{white}3. \space С. \space Дж. \space Кинкейд - Създадена \space да \space Убива} - \space 447 \space  стр. -/- \space Страхотна \space е.$$
+## $${\color{grey}3. \space С. \space Дж. \space Кинкейд - Създадена \space да \space Убива} - \space 447 \space  стр. -/- \space Страхотна \space е.$$
 
 <p align="left">
 <a href="https://www.ozone.bg/product/s-zdadena-da-ubiva/" target="_blank"><img align="center" src="./img/BUY-BOOK-red.svg" alt="bookTitle" /></a>
@@ -30,7 +30,7 @@
 
 ---
 
-## $${\color{white}4. \space С. \space Дж. \space Кинкейд - Императрицата} - \space 445 \space  стр. -/- \space Хубава \space е.$$
+## $${\color{grey}4. \space С. \space Дж. \space Кинкейд - Императрицата} - \space 445 \space  стр. -/- \space Хубава \space е.$$
 
 <p align="left">
 <a href="https://www.ozone.bg/product/imperatritsata-vrag-na-imperiyata-2/" target="_blank"><img align="center" src="./img/BUY-BOOK-red.svg" alt="bookTitle" /></a>
@@ -40,10 +40,10 @@
 
 ---
 
-## $${\color{red}4. \space С. \space Дж. \space Кинкейд - Императрицата} - \space 445 \space  стр. -/- \space Хубава \space е.$$
+## $${\color{red}4. \space Харлан \space Коубън - Не \space се \space отказвай} - \space 316 \space  стр. -/- \space Страхотна \space е.$$
 
 <p align="left">
-<a href="https://www.ozone.bg/product/imperatritsata-vrag-na-imperiyata-2/" target="_blank"><img align="center" src="./img/BUY-BOOK-red.svg" alt="bookTitle" /></a>
+<a href="https://www.ozone.bg/product/ne-se-otkazvaj/" target="_blank"><img align="center" src="./img/BUY-BOOK-red.svg" alt="bookTitle" /></a>
 </p>
 
-<img src='./img/ImperatricaFront.jpg' width='300px' height='300px'> <img src='./img/ImperatricaBack.jpg' width='300px' height='300px'>
+<img src='./img/NeseotkazvaiFront.jpg' width='300px' height='300px'>

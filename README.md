@@ -4,7 +4,7 @@
 
 <p align="left">
 <a href="https://www.book.store.bg/p314366/hvani-me-lisa-gardnyr.html
-" target="blank"><img align="center" src="./img/BUY-FROM-brightgreen.svg" alt="stanislav angelov" height="30" width="40" /></a>
+" target="_blank"><img align="center" src="./img/BUY-FROM-brightgreen.svg" alt="bookTitle" /></a>
 </p>
 
 <img src='./img/LisaFront.jpg' width='300px' height='300px'> <img src='./img/LisaBack.jpg' width='300px' height='300px'>

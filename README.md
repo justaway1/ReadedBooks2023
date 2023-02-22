@@ -30,7 +30,7 @@
 
 ---
 
-## $${\color{red}4. \space С. \space Дж. \space Кинкейд - Императрица} - \space 445 \space  стр. -/- \space Хубава \space е.$$
+## $${\color{red}4. \space С. \space Дж. \space Кинкейд - Императрицата} - \space 445 \space  стр. -/- \space Хубава \space е.$$
 
 <p align="left">
 <a href="https://www.ozone.bg/product/imperatritsata-vrag-na-imperiyata-2/" target="_blank"><img align="center" src="./img/BUY-BOOK-red.svg" alt="bookTitle" /></a>

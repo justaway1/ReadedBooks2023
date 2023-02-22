@@ -1,5 +1,9 @@
 # Finished books of 2023
 
+| Total Books | Total Pages | Average pages per book |
+| ----------- | ----------- | ---------------------- |
+| 7           | 2659        | 379                    |
+
 ## $${\color{purple}1. \space Лиса \space Гарднър - Хвани \space ме} - \space 373 \space стр. -/- \space Много \space е \space хубава.$$
 
 <p align="left">

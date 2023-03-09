@@ -77,10 +77,10 @@
 
 ---
 
-## $${\color{dark}7. \space Андерс \space Руслунд - 3 \space дни} - \space 455 \space  стр. -/- \space Хубава \space е.$$
+## $${\color{dark}8. \space Андерс \space Руслунд - 3 \space дни} - \space 455 \space  стр. -/- \space Хубава \space е.$$
 
 <p align="left">
 <a href="https://www.ozone.bg/product/3-dni/" target="_blank"> <img align="center" src="./img/BUY-BOOK-black.svg" alt="bookTitle" /></a>
 </p>
 
-<img src='./img/3-dni-30.jpg' width='300px' height='300px'>
+<img src='./img/3-dni-30.jpg' width='500px' height='300px'>
